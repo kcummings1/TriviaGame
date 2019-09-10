@@ -1,0 +1,21 @@
+body{
+	background-image: url(https://4.bp.blogspot.com/-_5ZcGSb3jOY/XNqcWT09OfI/AAAAAAAAPOs/LmCkm9-ts5sFUrrTRnjrtB6ENPxaP51DgCLcBGAs/s1600/staticcling.png);
+	text-align: center;
+}
+
+.text-muted{
+    color:whitesmoke;
+    font-weight: bold;
+    
+}
+h2{
+    color: purple;
+    background-color: aquamarine;
+    
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
